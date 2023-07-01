@@ -6,7 +6,6 @@ A student asked for a Spring Security version of the Thymeleaf Employee Director
 For docs on Spring Security and Thymeleaf integration, see this link
 - https://www.thymeleaf.org/doc/articles/springsecurity.html
 
-
 SQL Script
 ===========
 This is the same SQL script used in the course.
